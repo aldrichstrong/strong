@@ -1,0 +1,183 @@
+@charset "utf-8";
+@import url("webfonts/Teachers_Regular/stylesheet.css");
+@import url("webfonts/Teachers_SemiBold/stylesheet.css");
+@import url("webfonts/Nunito_SemiBold/stylesheet.css");
+@import url("webfonts/Nunito_Light/stylesheet.css");
+@import url("webfonts/Nunito_Regular/stylesheet.css");
+
+
+
+
+
+.text-center.col-xl-12 {
+    background-color: #002908;
+    color: #FFFFFF;
+}
+.container-fluid .container p {
+}
+.container-fluid .container p {
+
+}
+.container-fluid .text-center {
+}
+.container-fluid .container {
+}
+.container div .text-right.text-uppercase {
+    background-color: #012C00;
+    color: #FF8500;
+}
+.container-fluid .container .text-right.text-uppercase {
+}
+.container div .text-uppercase {
+    background-color: #003610;
+    color: #FF8500;
+}
+.container-fluid .container .text-right.text-uppercase {
+}
+.container-fluid .container .text-right.text-uppercase {
+    background-color: #063500;
+    color: #FF7800;
+}
+.container-fluid .text-center {
+}
+.container-fluid .text-center {
+}
+.container-fluid .text-center {
+    background-color: #002F03;
+    color: #FF7E00;
+}
+.row .col-xl-6 p {
+    color: #FF7800;
+}
+.row .col-xl-3 p {
+    color: #FF6B00;
+}
+.col-xl-3 .text-center.text-uppercase strong {
+    color: #FFFEFE;
+}
+.col-xl-3 .text-uppercase strong {
+    color: #FFFFFF;
+}
+.row .col-xl-6 p {
+}
+.container-fluid .text-center {
+    font-style: normal;
+    font-family: "Nunito SemiBold";
+}
+.carousel-item .carousel-caption h5 {
+    font-family: "Teachers SemiBold";
+    color: #95EF58;
+}
+.row .col-lg-3.col-md-6.col-12 p {
+    font-family: "Nunito Regular";
+}
+.card .card-body .card-text {
+    font-family: "Nunito Regular";
+}
+.card .card-body .card-text {
+    font-family: "Nunito Regular";
+}
+.card #collapseOne1 .card-body {
+    font-family: "Nunito Regular";
+}
+#navbarSupportedContent .navbar-nav.ml-auto .nav-item {
+    font-family: "Teachers Regular";
+    color: #FF9617;
+}
+.navbar-nav.ml-auto .nav-item .nav-link {
+    color: #FF7E00;
+    background-color: #103E00;
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-dark.bg-dark .navbar-brand {
+    background-color: #0A2800;
+}
+.row .col-xl-6 p {
+    color: #000000;
+}
+.row .col-xl-6 p {
+    color: #FF9800;
+}
+.row .col-xl-6 p {
+    color: #FF8500;
+}
+.row .col-xl-3 .text-center.text-uppercase {
+    color: #FF8500;
+}
+.row .col-xl-3 .text-uppercase {
+    color: #FF7800;
+}
+.row .col-xl-3 .text-uppercase {
+    color: #FF7E00;
+}
+#headingOne1 .mb-0 a {
+    font-family: "Nunito SemiBold";
+}
+#headingTwo1 .mb-0 .collapsed {
+    font-family: "Nunito SemiBold";
+}
+#headingThree1 .mb-0 .collapsed {
+    font-family: "Nunito SemiBold";
+}
+.card-body .card-title strong {
+    font-family: "Teachers SemiBold";
+}
+.row .col-xl-3 p {
+    color: #000000;
+}
+.row .col-xl-6 p {
+    color: #000000;
+}
+.row .col-xl-6 {
+    color: #FA941A;
+}
+.row .col-xl-3 h6 {
+    font-family: "Teachers SemiBold";
+}
+.row .col-xl-6 p {
+    font-family: "Nunito Regular";
+}
+.row .col-xl-3 h6 {
+    color: #FF9E00;
+}
+.row .col-xl-6 h6 {
+}
+.row .col-xl-6 h6 {
+    color: #FF6500;
+}
+.row .col-xl-3 h6 {
+    color: #FF7200;
+    font-family: "Nunito Regular";
+}
+footer .container footer {
+    font-family: "Nunito Regular";
+    color: #FF7E00;
+}
+.col-xl-6 .text-center strong {
+    color: #FF7E00;
+}
+.row .col-xl-6 .text-center {
+    color: #FF7800;
+}
+.container-fluid .container .text-uppercase.text-center {
+    color: #FF9100;
+}
+.row .col-lg-3.col-md-6.col-12 h4 {
+    font-family: "Nunito SemiBold";
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .navbar-toggler .navbar-toggler-icon {
+    background-color: #F49200;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .navbar-toggler .navbar-toggler-icon {
+    background-color: #F98E00;
+}
+
+
+
+@media screen{
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .navbar-toggler .navbar-toggler-icon {
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .navbar-toggler .navbar-toggler-icon {
+}
+
+
+}
